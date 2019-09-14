@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/birthdayyyyy/static/css/main.0b5f92a3.chunk.css",
-    "main.js": "/birthdayyyyy/static/js/main.76512769.chunk.js",
-    "main.js.map": "/birthdayyyyy/static/js/main.76512769.chunk.js.map",
-    "runtime~main.js": "/birthdayyyyy/static/js/runtime~main.f4aa0c91.js",
-    "runtime~main.js.map": "/birthdayyyyy/static/js/runtime~main.f4aa0c91.js.map",
-    "static/js/2.159b1695.chunk.js": "/birthdayyyyy/static/js/2.159b1695.chunk.js",
-    "static/js/2.159b1695.chunk.js.map": "/birthdayyyyy/static/js/2.159b1695.chunk.js.map",
-    "index.html": "/birthdayyyyy/index.html",
-    "precache-manifest.f1048536b8264cd123cca9d6eefd8093.js": "/birthdayyyyy/precache-manifest.f1048536b8264cd123cca9d6eefd8093.js",
-    "service-worker.js": "/birthdayyyyy/service-worker.js",
-    "static/css/main.0b5f92a3.chunk.css.map": "/birthdayyyyy/static/css/main.0b5f92a3.chunk.css.map",
-    "static/media/jackie-face.png": "/birthdayyyyy/static/media/jackie-face.f18df745.png"
+    "main.css": "/birthdayyyyy/public/index.html/static/css/main.0b5f92a3.chunk.css",
+    "main.js": "/birthdayyyyy/public/index.html/static/js/main.76512769.chunk.js",
+    "main.js.map": "/birthdayyyyy/public/index.html/static/js/main.76512769.chunk.js.map",
+    "runtime~main.js": "/birthdayyyyy/public/index.html/static/js/runtime~main.197d0794.js",
+    "runtime~main.js.map": "/birthdayyyyy/public/index.html/static/js/runtime~main.197d0794.js.map",
+    "static/js/2.159b1695.chunk.js": "/birthdayyyyy/public/index.html/static/js/2.159b1695.chunk.js",
+    "static/js/2.159b1695.chunk.js.map": "/birthdayyyyy/public/index.html/static/js/2.159b1695.chunk.js.map",
+    "index.html": "/birthdayyyyy/public/index.html/index.html",
+    "precache-manifest.7c718dda442d609bd24a66c119bfc515.js": "/birthdayyyyy/public/index.html/precache-manifest.7c718dda442d609bd24a66c119bfc515.js",
+    "service-worker.js": "/birthdayyyyy/public/index.html/service-worker.js",
+    "static/css/main.0b5f92a3.chunk.css.map": "/birthdayyyyy/public/index.html/static/css/main.0b5f92a3.chunk.css.map",
+    "static/media/jackie-face.png": "/birthdayyyyy/public/index.html/static/media/jackie-face.f18df745.png"
   }
 }
