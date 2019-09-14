@@ -2,12 +2,72 @@ body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-    sans-serif;
+    sans-serif,'Press Start 2P', cursive;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url("https://media1.tenor.com/images/f5b20d47735de98fb5f52967b2ddc718/tenor.gif?itemid=13191681")
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+.font {
+  font-family: 'Press Start 2P', cursive;
+}
+
+.color{
+  color: rgb(251, 64, 251);
+}
+
+h1 {
+  font-family: 'Press Start 2P', cursive;
+  text-align: center;
+  color: rgb(251, 64, 251)
+}
+
+.blinking{
+  animation:blinkingText 0.8s infinite;
+}
+@keyframes blinkingText{
+  0%{     color: rgb(251, 64, 251)}
+  49%{    color: rgb(231, 243, 57)}
+  50%{    color: rgb(251, 64, 251)}
+  99%{    color: rgb(231, 243, 57)}
+  100%{   color: rgb(251, 64, 251)}
+}
+
+.map{
+  display: flex;
+  justify-content: center;
+  margin-top: 2%
+}
+
+.regText {
+  font-family: 'Press Start 2P', cursive;
+  text-align: center;
+  color: white;
+  font-weight: bolder;
+}
+
+.sean {
+  display: flex;
+  justify-content: center;
+}
+
+.jackie {
+
+  animation: rotation 2s infinite linear;
+  z-index: -1;
+  position: absolute;
+}
+
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
 }
